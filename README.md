@@ -48,8 +48,8 @@ To confirm the reliability of the multiple linear regression model, variance inf
 
  **Clone the repository:**
    ```bash
-   git clone [https://github.com/thaylamaciel/uk-education-spending-analysis.git](https://github.com/thaylamaciel/uk-education-spending-analysis.git)
-   cd uk-education-spending-analysis
+git clone [https://github.com/thaylamaciel/uk-education-spending-analysis.git](https://github.com/thaylamaciel/uk-education-spending-analysis.git)
+cd uk-education-spending-analysis
 
 
 ## Repository Structure
@@ -62,5 +62,4 @@ To confirm the reliability of the multiple linear regression model, variance inf
 ├── fig3_model_residuals_publication.png
 ├── LICENSE                              # MIT License
 └── README.md                            # Documentation
-
 
